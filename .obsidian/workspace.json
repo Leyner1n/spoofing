@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Анализ угроз спуффинга для человека или спутника(8 страниц)"
             }
+          },
+          {
+            "id": "f7095d0a25dc756a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Как подтягивать файлы с Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Как подтягивать файлы с Git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -174,15 +189,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "a8826f6f4cc87b25",
-  "lastOpenFiles": []
+  "active": "f7095d0a25dc756a",
+  "lastOpenFiles": [
+    "Как подтягивать файлы с Git.md",
+    "Методичка Git.md",
+    "test.md",
+    "Screenshot 2026-03-20 at 2.19.58 PM.png",
+    "Анализ угроз спуффинга для человека или спутника(8 страниц).md"
+  ]
 }
