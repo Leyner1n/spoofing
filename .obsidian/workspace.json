@@ -11,10 +11,14 @@
             "id": "2e46f6f904ac98a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Научные Статьи/Научные статьи по главам.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Научные статьи по главам"
             }
           }
         ]
@@ -177,5 +181,9 @@
     }
   },
   "active": "2e46f6f904ac98a4",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Научные Статьи/Отечественные/Untitled.md",
+    "Научные Статьи/Научные статьи по главам.md",
+    "Научные Статьи/Иностранные/Untitled.md"
+  ]
 }
